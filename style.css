@@ -1,0 +1,47 @@
+*{
+    margin: auto;
+    padding: 2%;
+}
+.img{
+    
+    width: 380px;
+    height: 200px;
+    padding: 0%;
+    border-radius: 20px;
+}
+.video{
+    width: 380px;
+    height: 500px;
+    margin: 50%vw;
+}
+.tim{
+   margin-left:160px;
+   margin-top:-100px;
+   border-radius:7px;
+   height: 20px;
+   width: 50px;
+   background-color: rgba(100, 93, 93, 0.281);
+   padding: 0%;
+   border: none;
+}
+.imgs{
+    width: 30px;
+    height: 30px;
+    margin-right: 335px;
+    margin-top: 30px;
+    border-radius: 50%;
+    background-image: url(https://wallpapers.com/images/hd/pubg-2020-desert-assault-jdhz15037blmef2t.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.con{
+    margin-left:60px;
+    margin-right: 10px;
+}
+.cha{
+    color: gray;
+    margin-left: 20px;
+    margin-top: -10px;
+    font-size: 12px;
+}
